@@ -12,3 +12,9 @@
 - Best Use of Streamlit
 - Best AI Project with Databricks Open Source
 - Hackiest Hack
+
+
+# Things to install
+pip install streamlit pymongo dnspython auth0-python
+
+pip install openai web3 pandas
