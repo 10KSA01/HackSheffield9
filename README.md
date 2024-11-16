@@ -19,6 +19,11 @@ pip install streamlit pymongo dnspython auth0-python
 
 pip install openai web3 pandas
 
+# Services
+MongoDB - GITHUBSTUDENT50-DWNWLG
+GoDaddy (Porkbun) - http://learntoearncrypto.biz/
+
+
 
 # Motivation of this project:
 1. Gamified Learning Increases Engagement
