@@ -20,7 +20,7 @@ pip install streamlit pymongo dnspython auth0-python
 pip install openai web3 pandas
 
 
-Motivation of this project:
+# Motivation of this project:
 1. Gamified Learning Increases Engagement
 
     Problem: Traditional learning methods, especially online, often fail to keep learners motivated.
